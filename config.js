@@ -10,24 +10,24 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = true //auto recording (true to on, false to off)
 
-global.Owner = ['27729378630']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.OwnerNumber = ['27729378630']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.ownertag = ['27729378630']
-global.BotName = "YUKINO"
-global.packname = "YUKINO"
-global.author = "Empty-Sama"
-global.OwnerName = "Empty-sama Sir🚀🌟"
+global.Owner = ['918822032569']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.OwnerNumber = ['918822032569']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.ownertag = ['918822032569']
+global.BotName = "CHAMANLA"
+global.packname = "CHAMANLAL"
+global.author = "CHIF"
+global.OwnerName = "CHIF THE DADDY🗿"
 global.BotSourceCode = "https://github.com"
-global.SupportGroupLink = "https://chat.whatsapp.com/"
+global.SupportGroupLink = "https://chat.whatsapp.com/D8CEep6hFWw1txYhnBvCLB"
 global.sessionName = "session"
 global.Port = "7575"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
-global.prefa = [':'] 
+global.prefa = ['.'] 
 
 
-global.location = "South Africa"
+global.location = "INDIA"
 global.reactmoji = "⚡"
 global.themeemoji = "✨"
 global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/Yukino-Bot.mp4' }
