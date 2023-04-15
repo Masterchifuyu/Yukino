@@ -13,7 +13,7 @@ global.antitags = true
 global.Owner = ['918822032569']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
 global.OwnerNumber = ['918822032569']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
 global.ownertag = ['918822032569']
-global.BotName = "CHAMANLA"
+global.BotName = "CHAMANLAL"
 global.packname = "CHAMANLAL"
 global.author = "CHIF"
 global.OwnerName = "CHIF THE DADDY🗿"
@@ -31,7 +31,7 @@ global.location = "INDIA"
 global.reactmoji = "⚡"
 global.themeemoji = "✨"
 global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/Yukino-Bot.mp4' }
-global.websitex = "https://github.com/Empty-sama"
+global.websitex = "https://github.com/Masterchifuyu"
 global.lolhuman = "KaysaS"
 
 
